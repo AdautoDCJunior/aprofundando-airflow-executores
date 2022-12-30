@@ -16,4 +16,4 @@ venv
 .env
 
 # DATA LOCAL
-temp
+stocks
