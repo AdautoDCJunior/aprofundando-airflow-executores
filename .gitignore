@@ -1,0 +1,19 @@
+# VSCODE
+.vscode
+
+# PYTHON
+__pycache__
+
+# AIRFLOW
+logs
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# ENVIRONMENT VARIABLES
+venv
+.env
+
+# DATA LOCAL
+temp
