@@ -9,6 +9,8 @@ logs
 airflow.db
 airflow-webserver.pid
 standalone_admin_password.txt
+dump.rdb
+airflow-worker.pid
 
 # ENVIRONMENT VARIABLES
 venv
@@ -16,3 +18,4 @@ venv
 
 # DATA LOCAL
 stocks
+crypto
